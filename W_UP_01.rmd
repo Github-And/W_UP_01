@@ -41,9 +41,22 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 
 <!--Graphical results here. Make sure to show your code. Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too. Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+### Plot boxplots
+
+```{r}
+boxplot(pushups~position,data=mydata)
+```
+  
+Skill players do more push ups than Line players. You're able to determine why skill players do more push ups than the line layers is because the SKILL box has a higher position on the plot than the LINE box.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(pushups~position,data=mydata)
+```
+  
+On the average, skill players do about 3 times more push ups than the line players. You can see that through the mean category.
 
 ## Inferential Results
 

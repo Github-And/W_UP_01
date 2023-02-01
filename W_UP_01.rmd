@@ -70,4 +70,4 @@ The probability of getting a result like this is 0.000009421 if there really is 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+Using box plots, numerical descriptive results, and inferential results, we were able to determine that skill players do significantly more push ups than line players. For box plots, we used the graph to see that the box labelled "SKILL" was placed at a higher position than the "LINE" box. In numerical descriptive results, skill players did three times more average push ups than line players. Finally, the probability of there being no difference between line and skill players doing push ups was extremely low, so the conclusion was the hypothesis was completely absurd. Therefore, the ultimate result is that skill players do more push ups than line players.
